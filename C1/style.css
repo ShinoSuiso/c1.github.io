@@ -12,8 +12,8 @@
     left: 550px;
     transform: translate(-50%,-50%);
     background-color: transparent;
-    color: rgb(15, 20, 60);
-     text-shadow: 0 0 0.2em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+    color: rgb(220, 223, 255);
+    text-shadow: 0 0 0.2em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
         
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
  }
